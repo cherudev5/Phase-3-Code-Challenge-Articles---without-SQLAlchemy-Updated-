@@ -1,4 +1,4 @@
-### Phase 3 Week 1(Python Toy Problems)
+### Phase 3 Code Challenge: Articles - without SQLAlchemy(Updated)
 
 Author :Cheruiyot Kigen David
 
